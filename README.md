@@ -1,5 +1,7 @@
 # Flex-Nav
 
+https://gurkirangill.github.io/flex-nav/
+
 Learning to use flex-box for making responsive navigation bars
 
 The nav-bar is responsive for a mobile and desktop display. 
